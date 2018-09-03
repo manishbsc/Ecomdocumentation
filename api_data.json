@@ -64,7 +64,7 @@
   {
     "type": "post",
     "url": "/api/v1/ecom/product/create",
-    "title": "Create/Add new Product details",
+    "title": "Create/Add    new Product details",
     "version": "0.0.1",
     "group": "Create",
     "parameter": {

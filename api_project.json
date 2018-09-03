@@ -3,13 +3,13 @@
   "version": "0.0.1",
   "description": "Documentation for blog app",
   "title": "Blog api",
-  "url": "localhost:3000",
+  "url": "localhost:4000",
   "sampleUrl": false,
   "defaultVersion": "0.0.0",
   "apidoc": "0.3.0",
   "generator": {
     "name": "apidoc",
-    "time": "2018-08-24T19:01:48.078Z",
+    "time": "2018-09-03T19:20:03.508Z",
     "url": "http://apidocjs.com",
     "version": "0.17.6"
   }
